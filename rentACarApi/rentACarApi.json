@@ -1,0 +1,53 @@
+{
+    "brands": [{
+            "id": 1,
+            "name": "BMW",
+            "image": "../assets/logo/bmw.png"
+        },
+        {
+            "id": 2,
+            "name": "Audi",
+            "image": "../rentACar/src/assets/logo/audi.png"
+        },
+        {
+            "id": 3,
+            "name": "Honda",
+            "image": "../rentACar/src/assets/logo/honda.png"
+        },
+        {
+            "id": 4,
+            "name": "Bugatti",
+            "image": "../rentACar/src/assets/logo/bugatti.png"
+        },
+        {
+            "id": 5,
+            "name": "Dacia",
+            "image": "../rentACar/src/assets/logo/dacia.png"
+        },
+        {
+            "id": 6,
+            "name": "Ford",
+            "image": "../rentACar/src/assets/logo/ford.png"
+        },
+        {
+            "id": 7,
+            "name": "Hyundai",
+            "image": "../rentACar/src/assets/logo/hyundai.png"
+        },
+        {
+            "id": 8,
+            "name": "Mercedes-Benz",
+            "image": "../rentACar/src/assets/logo/mercedes-Benz.png"
+        },
+        {
+            "id": 9,
+            "name": "Renault",
+            "image": "../rentACar/src/assets/logo/renault.png"
+        },
+        {
+            "id": 10,
+            "name": "Maserati",
+            "image": "../rentACar/src/assets/logo/maserati.png"
+        }
+    ]
+}
